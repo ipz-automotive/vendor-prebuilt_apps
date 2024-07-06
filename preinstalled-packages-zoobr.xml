@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <install-in-user-type package="com.google.android.apps.maps">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="org.ipzautomotive.zoobr.ZoobrClusterApp">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+    <install-in-user-type package="org.ipzautomotive.zoobr.MqttBrokerService">
+        <install-in user-type="FULL" />
+        <install-in user-type="SYSTEM" />
+    </install-in-user-type>
+</config>
